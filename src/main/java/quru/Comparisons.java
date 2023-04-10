@@ -1,6 +1,6 @@
 package quru;
 
-public class comparisons {
+public class Comparisons {
 
     public static void main(String[] args) {
         int c = 10;
